@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Agro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="show_more1"><i>...Show more</i></string>
+    <string name="show_less1"><i>...Show less</i></string>
+
+    <string name="Description_product">Gardenera 10-10-10 fertilizer is a balanced plant food that contains 10% nitrogen (N), 10% phosphorus (P), and 10% potassium (K) - the three primary nutrients that plants need for growth and development. These nutrients work together to provide balanced plant nutrition and promote healthy plant growth.\nApply the fertilizer evenly over the area using a spreader or by hand. It\'s essential to wear protective gear such as gloves, goggles, and a mask when applying the fertilizer to avoid any potential contact.\nTo use our 10-10-10 fertilizer, we recommend applying it during the growing season, preferably in the spring or fall. Measure the area you want to fertilize and use our recommended application rates to determine the amount of fertilizer you need. For example, for lawns, we recommend applying 1 quart of fertilizer per 100 square feet, and for plant beds, 1/10 quart per 1 pound of soil.\n10-10-10 art of fertilizer per 100 square feet, and for plant beds\nAfter application, water the area thoroughly to help the fertilizer dissolve and penetrate into the soil. This will also prevent the fertilizer from sitting on the leaves, which can cause leaf burn.\n10-10-10 art of fertilizer per 100 square feet, and for plant beds </string>
+    <string name="About_the_item"><b>BALANCED NUTRIENTS:</b> Our fertilizer contains a balanced ratio of 10% nitrogen, 10% phosphorus, and 10% potassium - the three primary nutrients that plants need for growth and development. This balanced formula ensures that your plants receive the necessary nutrients for optimal growth and health.\n<b>HIGH-QUALITY INGREDIENTS: </b>Our fertilizer is made with high-quality ingredients and is free from harmful chemicals and additives, making it safe for use around children and pets.</string>
+</resources>

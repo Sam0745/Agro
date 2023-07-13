@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/my projects/Agro/app/src/main/res/drawable-v24/constrant_background2.xml" value="0.2925" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/drawable-v24/constrant_background2Dark.xml" value="0.2925" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/drawable-v24/constrant_background3.xml" value="0.2925" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.2925" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/drawable-v24/ic_baseline_security_24.xml" value="0.2925" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/drawable-v24/plane_background.xml" value="0.2925" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/drawable-v24/textback.xml" value="0.2925" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/drawable/badge_shape.xml" value="0.2915" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/drawable/constrant_background.xml" value="0.2" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/drawable/constrant_background2white.xml" value="0.2925" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/drawable/constrant_background_grey.xml" value="0.3075" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/drawable/constrant_backgroundwhite.xml" value="0.2925" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.3075" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.2915" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/drawable/ic_home_24.xml" value="0.2915" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/drawable/note.xml" value="0.3075" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/activity_address.xml" value="0.2604166666666667" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/activity_bill.xml" value="0.25" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/activity_details.xml" value="0.33" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/activity_get_data.xml" value="0.2604166666666667" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/activity_main.xml" value="0.1741424802110818" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/activity_place_order.xml" value="0.2558876811594203" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/app_bar.xml" value="0.22" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/cart_action_item.xml" value="0.22" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/cart_rv_layout.xml" value="0.4058373870743572" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/content_main.xml" value="0.23324275362318841" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/fragment_add_to_cart.xml" value="0.23324275362318841" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/fragment_details.xml" value="0.23143115942028986" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/fragment_search.xml" value="0.23324275362318841" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/fragment_settings.xml" value="0.23324275362318841" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/fragment_top_recycler_details.xml" value="0.25271739130434784" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/my_child_rv.xml" value="0.33" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/my_parent_rv.xml" value="0.23324275362318841" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/my_rv_layout.xml" value="0.12552083333333333" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/my_top_rv_details_layout.xml" value="0.25271739130434784" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/my_viewpager_view.xml" value="0.23324275362318841" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/navheader.xml" value="0.23324275362318841" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/layout/placeorder_rv_layout.xml" value="0.2558876811594203" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/menu/icon_menu.xml" value="0.30416666666666664" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/menu/my_menu_layout.xml" value="0.30416666666666664" />
+        <entry key="..\:/my projects/Agro/app/src/main/res/menu/toll_menu.xml" value="0.30416666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
